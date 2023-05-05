@@ -1,3 +1,4 @@
+These are the list of library used
 
 pandas
 scikit-learn
@@ -6,3 +7,6 @@ mwclient
 yfinance
 matplotlib
 transformers
+numpy
+sklearn
+statsmodels
